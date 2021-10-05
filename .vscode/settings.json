@@ -1,0 +1,4 @@
+{
+    "appService.deploySubpath": "src",
+    "appService.defaultWebAppToDeploy": "/subscriptions/6f16c145-b626-4e48-856b-2680e1a8d8c2/resourceGroups/wolffgroup/providers/Microsoft.Web/sites/wolffresapp"
+}
